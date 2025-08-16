@@ -1,6 +1,6 @@
 # Pre-requisties
 - Shared cluster is created and the context is configured
-- Listing of namespaces in `./setup/namespaces.txt`
+- Listing of namespace to create is to be populated in `./setup/namespaces.txt`
 
 # Setup
 ```bash
